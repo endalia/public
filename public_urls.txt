@@ -1,3 +1,4 @@
+end01actionshub.endaliahr.com
 end01auth.endaliahr.com
 end01communication.endaliahr.com
 end01compensation.endaliahr.com
@@ -13,8 +14,9 @@ end01payrollcompatibility.endaliahr.com
 end01reports.endaliahr.com
 end01signature.endaliahr.com
 end01skills.endaliahr.com
-end01time.endaliahr.com
+end01timecompatibility.endaliahr.com
 end01workflows.endaliahr.com
+end02actionshub.endaliahr.com
 end02auth.endaliahr.com
 end02communication.endaliahr.com
 end02compensation.endaliahr.com
@@ -30,7 +32,7 @@ end02payrollcompatibility.endaliahr.com
 end02reports.endaliahr.com
 end02signature.endaliahr.com
 end02skills.endaliahr.com
-end02time.endaliahr.com
+end02timecompatibility.endaliahr.com
 end02workflows.endaliahr.com
 endaliastorage.endaliahr.com
 gwendmulti.endaliahr.com
