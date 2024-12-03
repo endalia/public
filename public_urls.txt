@@ -5,7 +5,6 @@ end03compensation.endaliahr.com
 end03development.endaliahr.com
 end03expenses.endaliahr.com
 end03holidays.endaliahr.com
-end03auth.endaliahr.com
 end03learning.endaliahr.com
 end03notifications.endaliahr.com
 end03organization.endaliahr.com
