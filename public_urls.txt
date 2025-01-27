@@ -34,5 +34,6 @@ end03signature.endaliahr.com
 end03skills.endaliahr.com
 end03time.endaliahr.com
 end03workflows.endaliahr.com
+sandbox-api.endaliahr.com
 endaliastorage.endaliahr.com
 gwendmulti.endaliahr.com
