@@ -19,6 +19,7 @@ end01timecompatibility.endaliahr.com
 end01workflows.endaliahr.com
 end03actionshub.endaliahr.com
 end03auth.endaliahr.com
+end03budget.endaliahr.com
 end03communication.endaliahr.com
 end03compensation.endaliahr.com
 end03development.endaliahr.com
