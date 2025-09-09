@@ -30,7 +30,6 @@ end03learning.endaliahr.com
 end03notifications.endaliahr.com
 end03organization.endaliahr.com
 end03payroll.endaliahr.com
-end03payrollcompatibility.endaliahr.com
 end03reports.endaliahr.com
 end03requests.endaliahr.com
 end03signature.endaliahr.com
