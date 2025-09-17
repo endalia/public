@@ -1,5 +1,4 @@
 api.endaliahr.com
-backoffice.endaliahr.com
 end01actionshub.endaliahr.com
 end01auth.endaliahr.com
 end01communication.endaliahr.com
@@ -37,6 +36,7 @@ end03signature.endaliahr.com
 end03skills.endaliahr.com
 end03time.endaliahr.com
 end03workflows.endaliahr.com
+hub.endaliahr.com
 sandbox-api.endaliahr.com
 endaliastorage.endaliahr.com
 gwendmulti.endaliahr.com
