@@ -4,6 +4,7 @@ backoffice.endaliahr.com
 end03actionshub.endaliahr.com
 end03aiorchestrator.endaliahr.com
 end03auth.endaliahr.com
+end03authbackground.endaliahr.com
 end03budget.endaliahr.com
 end03communication.endaliahr.com
 end03communicationbackground.endaliahr.com
