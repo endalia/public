@@ -15,6 +15,7 @@ end03expenses.endaliahr.com
 end03expensesbackground.endaliahr.com
 end03holidays.endaliahr.com
 end03holidaysbackground.endaliahr.com
+end03integrationshub.endaliahr.com
 end03learning.endaliahr.com
 end03notifications.endaliahr.com
 end03notificationsbackground.endaliahr.com
