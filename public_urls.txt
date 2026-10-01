@@ -1,3 +1,4 @@
+
 api.endaliahr.com
 backoffice.endaliahr.com
 end03actionshub.endaliahr.com
@@ -9,6 +10,8 @@ end03communication.endaliahr.com
 end03communicationbackground.endaliahr.com
 end03compensation.endaliahr.com
 end03compensationbackground.endaliahr.com
+end03compensationcompatibility.endaliahr.com
+end03compensationcompatibilitybackground.endaliahr.com
 end03development.endaliahr.com
 end03expenses.endaliahr.com
 end03expensesbackground.endaliahr.com
