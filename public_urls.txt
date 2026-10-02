@@ -26,6 +26,7 @@ end03organizationbackground.endaliahr.com
 end03payroll.endaliahr.com
 end03payrollbackground.endaliahr.com
 end03payrollcompatibility.endaliahr.com
+end03peopleanalytics.endaliahr.com
 end03reports.endaliahr.com
 end03reportsbackground.endaliahr.com
 end03requests.endaliahr.com
